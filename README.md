@@ -1,0 +1,1 @@
+# Trustor - The trustor assumes the role of an evaluator within an IoV network to assess and ascertain the trustworthiness of a trustee. In our proposed dataset, there are 80 trustors listed in column 1 of the dataset.
