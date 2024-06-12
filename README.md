@@ -18,5 +18,5 @@ The proposed dataset comprises *80* vehicles engaging in a total of *96,707* int
 **Context** - The context (0=< context <=1) means the vehicle network communication quality, and is listed in *column 11* of the dataset.<br/><br/>
 # Related Paper(s)
 1. Wang Y, Mahmood A, Sabri MFM, Zen H, Kho LC. MESMERIC: Machine Learning-Based Trust Management Mechanism for the Internet of Vehicles. *Sensors*. 2024; 24(3):863.
-# Partial trust values of the trust parameters
+# Partial Trust Values of the Trust Parameters
 
