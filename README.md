@@ -13,4 +13,4 @@ The proposed dataset comprises 80 vehicles engaging in a total of 96,707 interac
 **Reward/Punishment (RP)** - The reward and punishment (0=< RP <=1) is utilized to assess the rewards and penalties allocated to a trustee by a trustor based on its conduct, specifically, a trustee is rewarded by a trustor for exhibiting cooperation, honesty, and reporting critical events while being penalized for any misconduct, and is represented in column *10* of the dataset. <br/><br/>
 **Context** - The context (0=< context <=1) means the vehicle network communication quality, and is listed in *column 11* of the dataset.<br/><br/>
 # Related Paper(s)
-1. 
+1. Wang Y, Mahmood A, Sabri MFM, Zen H, Kho LC. MESMERIC: Machine Learning-Based Trust Management Mechanism for the Internet of Vehicles. Sensors. 2024; 24(3):863. 
