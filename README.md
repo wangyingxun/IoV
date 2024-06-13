@@ -19,4 +19,9 @@ The proposed dataset comprises *80* vehicles engaging in a total of *96,707* int
 # Related Paper(s)
 1. Wang Y, Mahmood A, Sabri MFM, Zen H, Kho LC. MESMERIC: Machine Learning-Based Trust Management Mechanism for the Internet of Vehicles. *Sensors*. 2024; 24(3):863.
 # Partial Trust Values of the Trust Parameters
+| 姓名   | 年龄 | 国籍    |
+| ------ | ---- | ------- |
+| 小明   | 25   | 中国    |
+| 小红   | 30   | 美国    |
+| 小花   | 28   | 英国    |
 
