@@ -17,8 +17,6 @@ The proposed dataset comprises *79* vehicles engaging in a total of *96,707* int
 **Internal Familiarity (IF)** - The internal familiarity (0=< IF <=1) denotes the extent of interaction frequency between trustor and trustee, and is recorded in column *9* of the dataset. <br/><br/>
 **Reward / Punishment (RP)** - The reward and punishment (0=< RP <=1) is employed in order to ascertain the degree of a reward or a penalty allocated to a trustee *j* based on its conduct in an IoV network. Specifically, a trustee is rewarded by a trustor for exhibiting cooperation, honesty, and reporting critical events, whereas, is penalized for any sort of a misconduct, and is represented in column *10* of the dataset. <br/><br/>
 **Context** - In the context (0=< context <=1) of this particular dataset, the context implies the network communication quality segregated into four classes implying poor, medium, good, and excellent, and is listed in column *11* of the dataset.<br/><br/>
-# Related Paper(s)
-1. Wang Y, Mahmood A, Sabri MFM, Zen H, Kho LC. MESMERIC: Machine Learning-Based Trust Management Mechanism for the Internet of Vehicles. *Sensors*. 2024; 24(3):863.
 # Partial Trust Values of the Trust Parameters
 | Trustor | Trustee | Packet Delivery Rate  |Similarity | External Similarity| Internal Similarity |Familiarity | External Familiarity| Internal Familiarity |  Reward / Punishment | Context |
 | ------ | ---- | ------- |------ | ---- | ------- |------ | ---- | ------- | ---- | ------- |
@@ -80,4 +78,5 @@ The proposed dataset comprises *79* vehicles engaging in a total of *96,707* int
 |78|79|0.1205|0.7065|1|0.4130|0.9697|0.9394|1|0.0.55|0.4|
 |78|79|0.2244|0.7155|1|0.4311|0.9848|0.9697|1|0.1033|0.4|
 |78|79|0.5470|0.7295|1|0.4591|1.0000|1.0000|1|0.3477|0.6|
-
+# Related Paper(s)
+1. Wang Y, Mahmood A, Sabri MFM, Zen H, Kho LC. MESMERIC: Machine Learning-Based Trust Management Mechanism for the Internet of Vehicles. *Sensors*. 2024; 24(3):863.
