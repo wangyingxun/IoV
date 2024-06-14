@@ -20,7 +20,7 @@ The proposed dataset comprises *79* vehicles engaging in a total of *96,707* int
 # Partial Trust Values of the Trust Parameters
 | Trustor | Trustee | Packet Delivery Rate  |Similarity | External Similarity| Internal Similarity |Familiarity | External Familiarity| Internal Familiarity |  Reward / Punishment | Context |
 | ------ | ---- | ------- |------ | ---- | ------- |------ | ---- | ------- | ---- | ------- |
-|0|1|0.7182|0.2947|0|0.5894|0.1832|0.0061|0.3602|0.5418|0.4|
+|<center>0</center> |1|0.7182|0.2947|0|0.5894|0.1832|0.0061|0.3602|0.5418|0.4|
 |0|1|0.9528|0.2967|0|0.5934|0.1862|0.0123|0.3602|0.9089|0.4|
 |0|1|0.6075|0.2987|0|0.5974|0.1893|0.0184|0.3602|0.4103|0.0|
 |0|1|0.7157|0.3008|0|0.6015|0.1924|0.0245|0.3602|0.5386|0.4|
