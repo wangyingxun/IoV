@@ -1,7 +1,7 @@
 # Internet of Vehicles
 The Internet of Vehicles (IoV) is an application of the Internet of Things (IoT) in the context of Intelligent Transportation Systems (ITS). The IoV has a similar architecture to the IoT and features a hierarchical structure that includes data source, edge, fog, and the cloud layers. Vehicles share information with other vehicles, pedestrians, intelligent roadside infrastructure, and backbone networks to establish vehicle-to-vehicle, vehicle-to pedestrian, vehicle-to-infrastructure, and vehicle-to-network communication, thereby formulating vehicle-to-everything (V2X) communication. Figure 1 portrays an IoV landscape. 
 
-<img src="fig1.png" title="An IoV landscape" width="500">
+<img src="fig1.png" alt="An IoV landscape" width="500">
 Figure 1:  An IoV landscape.
 
 # Trust in the Internet of Vehicles
