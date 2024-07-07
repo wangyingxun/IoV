@@ -3,7 +3,7 @@ The Internet of Vehicles (IoV) is an application of the Internet of Things (IoT)
 
 
 <figure>
-  <div style="text-align:center;">
+  <div style="src-align:center;">
   <img
   src="fig1.png"
   alt="An IoV landscape."
