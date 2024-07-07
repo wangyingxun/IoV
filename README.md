@@ -17,7 +17,7 @@ The proposed dataset comprises *79* vehicles engaging in a total of *96,707* int
 **Internal Familiarity (IF)** - The internal familiarity (0=< IF <=1) denotes the extent of interaction frequency between trustor and trustee, and is recorded in column *9* of the dataset. <br/><br/>
 **Reward / Punishment (RP)** - The reward and punishment (0=< RP <=1) is employed in order to ascertain the degree of a reward or a penalty allocated to a trustee *j* based on its conduct in an IoV network. Specifically, a trustee is rewarded by a trustor for exhibiting cooperation, honesty, and reporting critical events, whereas, is penalized for any sort of a misconduct, and is represented in column *10* of the dataset. <br/><br/>
 **Context** - In the context (0=< context <=1) of this particular dataset, the context implies the network communication quality segregated into four classes implying poor, medium, good, and excellent, and is listed in column *11* of the dataset.<br/><br/>
-# Partial Trust Values of the Trust Parameters
+# A snapshot of values pertinent to the trust parameters
 | Trustor | Trustee | Packet Delivery Rate  |Similarity | External Similarity| Internal Similarity |Familiarity | External Familiarity| Internal Familiarity |  Reward / Punishment | Context |
 | :------: |  :----:  | :-------:| :------: | :----: | :------: |:------: | :----: | :-------: | :----: | :-------: |
 |0|1|0.7113|0.6833|1|0.3666|0.6801|1.0000|0.3602|0.5329|0.6|
